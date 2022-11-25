@@ -17,7 +17,7 @@ public class AlphabeticCharacters {
 
 
         }
-        else System.out.println("wrong alphabet");
+        else System.out.println("wrong alphabet!");
     }
     public static void main(String[] args) {
         AlphabeticCharacters ac = new AlphabeticCharacters();
